@@ -2,6 +2,12 @@
 
 > *Entiéndase "deberíamos saber" como una combinación de "nos debería sonar", "no nos debería sorprender", "deberíamos conocer", "deberíamos saber manejar", en función del tema abordado. En cualquier caso, lo mínimo es "no nos debería sorprender" y deberíamos poder tener una mínima conversación o lectura sobre estos temas.*
 
+## 9 marzo
+
+- Recursión como reflejo directo de la estructura del problema: cuando existe esa correspondencia, la corrección se garantiza por construcción, sin validación explícita.
+- Backtracking sobre espacios con ciclos: la necesidad de marcar el espacio ya explorado para garantizar la finalización.
+- El principio general del hacer/deshacer reformulado: dejar el estado correcto para quien continúa sin necesariamente restaurar el estado original.
+
 ## 4 marzo
 
 - Estado / Hacer-deshacer / Árbol de decisiones / Patrones de exploración.
