@@ -10,4 +10,4 @@ Los retos se irán proponiendo, habitualmente luego de una disertación teórica
 |Retos|Fecha de entrega|Rama de entrega|
 |-|-|-|
 [Reto 001](/evaluaciones/retos/reto001.md)|25/02 12:15h|reto-001
-Reto 002|09/03 12:15h|reto-002
+[Reto 002](/evaluaciones/retos/reto002.md)|08/04 14:15h|reto-002
